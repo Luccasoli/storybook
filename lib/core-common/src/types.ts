@@ -248,8 +248,7 @@ export interface TypescriptOptions {
   /**
    * Configures `react-docgen-typescript-plugin`
    *
-   * @default
-   * @see https://github.com/storybookjs/storybook/blob/next/lib/builder-webpack5/src/config/defaults.js#L4-L6
+   * @see https://github.com/hipstersmoothie/react-docgen-typescript-plugin#readme
    */
   reactDocgenTypescriptOptions: PluginOptions;
 }
